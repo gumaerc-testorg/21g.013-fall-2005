@@ -11,7 +11,7 @@ uid: 3c04768e-f4c5-d8a3-323b-ed855e44d463
 ---
 Agamben, Giorgio. Preface, and "The Witness." In *Remnants of Auschwitz: The Witness and the Archive*. New York, NY: Zone Books, 2002.
 
-Brockmann, Stephen. [German Literary Culture at Zero Hour](http://www.boydell.co.uk/www.camden-house.com/71132988.HTM)*.* Rochester, NY: Camden House, 2004. ISBN: 1571132988.
+Brockmann, Stephen. *German Literary Culture at the Zero Hour.* Rochester, NY: Camden House, 2004. ISBN: 1571132988.
 
 Caruth, Cathy. "Literature and the Enactment of Memory: Duras, Resnais, Hiroshima, Mon amour." In *Unclaimed Experience: Trauma, Narrative, and History*. Baltimore, MD: Johns Hopkins University Press, 1996.
 
