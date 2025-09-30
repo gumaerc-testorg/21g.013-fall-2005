@@ -71,4 +71,4 @@ Einstürzende Neubauten. Strategies against Architecture. Vol. I (Released in 19
 
 *Berlin Babylon*. Directed by Hubertus Siegert and Ralph Stern. 2001.
 
-[Creatively Destroying New York: Fantasies, Premonitions, and Realities in the Provisional City](http://techtv.mit.edu/videos/15104-creatively-destroying-new-york-fantasies-premonitions-and-realities-in-the-provisional-city). A talk by Max Page recorded at MIT. February 25, 2002.
+{{% resource_link "dcfd82d9-430f-448a-a849-32ac2391935d" "Creatively Destroying New York: Fantasies, Premonitions, and Realities in the Provisional City" %}}. A talk by Max Page recorded at MIT. February 25, 2002.
